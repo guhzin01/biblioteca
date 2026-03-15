@@ -5,13 +5,13 @@ API REST para gerenciamento de livros desenvolvida com Node.js, Express, TypeScr
 O sistema permite realizar operações CRUD de livros.
 
 🚀 Tecnologias
-
 Node.js
-
 Express
-
 TypeScript
-
 TypeORM
-
 SQLite
+
+
+
+Hugo Dantas
+Estudante de Análise e Desenvolvimento de Sistemas
