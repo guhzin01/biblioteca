@@ -6,10 +6,15 @@ O sistema permite realizar operações CRUD de livros.
 
 🚀 Tecnologias
 Node.js
+
 Express
+
 TypeScript
+
 TypeORM
+
 SQLite
+
 
 
 
